@@ -14,3 +14,46 @@
 	/* also set this to how much buttons are visible */
 	--titlebar-buttons-count: 1;
 }
+
+.theme-dark{
+	--window_bg_color: rgb(29, 29, 32) !important;
+	--headerbar_shade_color: rgba(29, 29, 32, 1) !important;
+	--sidebar_shade_color: rgba(229, 29, 32, 1) !important;
+	--window_bg_color: rgb(29, 29, 32) !important;
+	--background-base-lower: rgb(29, 29, 32) !important;
+	--header-bar-background: rgb(29, 29, 32) !important;
+	--dialog_bg_color: #262629 !important;
+	--popover_bg_color: #262629 !important;
+	--accent-bg-color: #5B89B0 !important;
+	--sidebar_shade_color: rgba(200, 0, 6, 0.25) !important;
+	/*--document-font-size:16px !important;*/
+}
+
+
+.theme-dark .container__9293f.themed__9293f {
+	background-color: rgb(29, 29, 32) !important;
+}
+
+.theme-dark.container_f37cb1:not(.bannerVisible_f37cb1) .header_f37cb1 
+{
+	box-shadow: none !important;
+}
+
+.theme-dark .content__99f8c{
+	margin-top:-16px;
+}
+  
+.theme-dark .channelTextArea__74017 .editor__1b31f {
+	background-color:#262629 !important;
+	padding: 10px 10px !important;
+}
+
+
+.theme-dark * {
+	/*font-weight: normal !important;*/
+}
+
+.theme-dark .forceAnimate_dfb989
+{
+	background:#262629 !important;
+}
